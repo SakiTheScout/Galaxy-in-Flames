@@ -1,4 +1,4 @@
-# Galaxybis in flames
+# Galaxy is in flames
 Across the thousand worlds, former heroes of the Great Crusade clash in killing frenzy, burning the galaxy they sought to conquer together. The leader of rebellion is Horus Lupercal, once Emperor's favourite son, now Archtraitor, a vessel for unmortal powers of the Warp.
 In this war, there is little place for mere mortals. On the spearhead of any assault and in core of any defense there are the space marines, transhuman superwarriors, genetically modified and equipped to wage conflicts of galactic scale with unceremonious brutality.
 Forging the weapons of war exists the Cult Mechanicum, a separate branch of humanity devoting themselves to Machine God, rejecting the weakness of flesh and accepting the blessed augmentics. Their thrall-warriors and mighty god-machines served well for the Great Crusade, but now their weapons are turned against each other as the result of Schism.
