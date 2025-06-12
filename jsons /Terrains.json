@@ -1,0 +1,55 @@
+[
+  {
+		"name": "Flatland",
+		"type": "Land",
+		"movementCost": 1,
+    "defenceBonus": -0.15
+    ,
+		"RGB": [200, 200, 200]
+  },
+  {
+		"name": "Badland",
+		"type": "Land",
+		"movementCost": 2,
+		"RGB": [150, 150, 150],
+    "defenceBonus": 0.1,
+    "uniques": [
+      "Rough terrain"
+    ]
+  },
+  {
+		"name": "Floodland",
+		"type": "Land",
+		"movementCost": 2,
+		"RGB": [0, 110, 200],
+    "defenceBonus": -0.2,
+    "uniques": [
+      "Rough terrain",
+      "Fresh water"
+    ]
+  },
+  {
+		"name": "Wasteland",
+		"type": "Land",
+		"movementCost": 2,
+    "defenceBonus": -0.15,
+		"RGB": [200, 110, 0]
+  },
+  {
+		"name": "Small Hill",
+		"type": "TerrainFeature",
+		"movementCost": 2,
+		"overrideStats": true,
+		"defenceBonus": 0.25,
+		"RGB": [110, 110, 110],
+		"occursOn": [
+      "Flatland",
+      "Badland",
+      "Floodland",
+      "Wasteland"
+    ],
+    "uniques": [
+      "Rough terrain"
+    ]
+  }
+]
