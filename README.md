@@ -1,2 +1,7 @@
-# Galaxy-in-Flames
-Warhammer 30.000 mod for UnCiv, complete overhaul of entire game. Forget the promise of technology, for in the grim darkness of the far future there are only slaughter and laughter of the thirsting Gods.
+# Galaxybis in flames
+Across the thousand worlds, former heroes of the Great Crusade clash in killing frenzy, burning the galaxy they sought to conquer together. The leader of rebellion is Horus Lupercal, once Emperor's favourite son, now Archtraitor, a vessel for unmortal powers of the Warp.
+In this war, there is little place for mere mortals. On the spearhead of any assault and in core of any defense there are the space marines, transhuman superwarriors, genetically modified and equipped to wage conflicts of galactic scale with unceremonious brutality.
+Forging the weapons of war exists the Cult Mechanicum, a separate branch of humanity devoting themselves to Machine God, rejecting the weakness of flesh and accepting the blessed augmentics. Their thrall-warriors and mighty god-machines served well for the Great Crusade, but now their weapons are turned against each other as the result of Schism.
+Traitors have aligned themselves to the Forces of Chaos, now having support of four dark deities and their hordes of screaming cultists and formless daemons, nightmares coming alive, ripped from the pages of humanity's forgotten history to clash against the Emperor's finest warriors.
+And amongst these mighty forces stand simple and humble mortals whose heroism is unparalleled in this galactic civil war, it is on their shoulders both loyalist and traitor war machines function properly and they pay the highest price.
+The galaxy burns, the stakes are higher than ever. This is the battle for humanity's history. Join your side, lest you perish in between the hellflames.
